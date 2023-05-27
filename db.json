@@ -1,0 +1,60 @@
+{
+  "freelancers": [
+    {
+      "name": "ronit",
+      "email": "b@gmail.com",
+      "password": "ewdew",
+      "profession": "Graphic Designer",
+      "hourly_rate": 12,
+      "profile_picture": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?size=626&ext=jpg&ga=GA1.2.389943748.1681797237&semt=ais",
+      "skills": [
+        "65",
+        "23"
+      ],
+      "isBooked": false,
+      "id": 2
+    },
+    {
+      "name": "pritam",
+      "email": "a@gmail.com",
+      "password": "123",
+      "profession": "Student",
+      "hourly_rate": 13,
+      "profile_picture": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?size=626&ext=jpg&ga=GA1.2.389943748.1681797237&semt=ais",
+      "skills": [
+        "html",
+        "java"
+      ],
+      "isBooked": false,
+      "id": 3
+    },
+    {
+      "name": "rohitt",
+      "email": "n@gmail.com",
+      "password": "ewdew",
+      "profession": "Graphic Designer",
+      "hourly_rate": 12,
+      "profile_picture": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?size=626&ext=jpg&ga=GA1.2.389943748.1681797237&semt=ais",
+      "skills": [
+        "65",
+        "23"
+      ],
+      "isBooked": false,
+      "id": 4
+    },
+    {
+      "name": "ronit",
+      "email": "b@gmail.com",
+      "password": "ewdew",
+      "profession": "Graphic Designer",
+      "hourly_rate": 42,
+      "profile_picture": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?size=626&ext=jpg&ga=GA1.2.389943748.1681797237&semt=ais",
+      "skills": [
+        "65",
+        "23"
+      ],
+      "isBooked": false,
+      "id": 6
+    }
+  ]
+}
